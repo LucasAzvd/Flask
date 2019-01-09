@@ -1,0 +1,23 @@
+{% extends "template.html" %}
+{% block conteudo%}
+        <thead>
+            <tr>
+                <th>Nome       .</th>
+                <th>Categoria       .</th>
+                <th>Console       .</th>
+            </tr>
+        </thead>
+        <br>
+        <tbody>
+        {% for jogo in jogos %}    
+            <tr>
+                <td>{{ jogo.nome }}       .</td>
+                <td>{{ jogo.categoria }}       .</td>
+                <td>{{ jogo.console }}       .</td>
+            </tr>
+        <br>
+        {% endfor %}
+        </tbody>
+    </body>
+</html>
+{% endblock %}
