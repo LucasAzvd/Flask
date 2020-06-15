@@ -1,0 +1,132 @@
+{
+    "nomeEmpresa": "TESTE",
+    "quantidadeColaboradoresAtual": 45,
+    "numeroDesligados": 3,
+    "numeroEngenhariaDeCargos": 5,
+    "numeroDePesquisas": 97,
+    "perfis": [
+        {
+            "perfil": "A",
+            "quantidade": 1224
+        },
+        {
+            "perfil": "P",
+            "quantidade": 587
+        },
+        {
+            "perfil": "E",
+            "quantidade": 51318
+        },
+        {
+            "perfil": "C",
+            "quantidade": 51133
+        }
+    ],
+    "ocorrencias": [
+        {
+            "ocorrencia": "Positivo",
+            "quantidade": 1201
+        },
+        {
+            "ocorrencia": "Negativo",
+            "quantidade": 26
+        },
+        {
+            "ocorrencia": "Neutro",
+            "quantidade": 41
+        }
+    ],
+    "motivoDemissao": [
+        {
+            "Alguma coisa": 0
+        },
+        {
+            "Comprar Pão": 2
+        }
+    ],
+    "profilers": [
+        {
+            "status": "ops",
+            "quantidade": 12
+        },
+        {
+            "status": "ok",
+            "quantidade": 102
+        },
+        {
+            "status": "tchau",
+            "quantidade": 18
+        },
+        {
+            "status": "a",
+            "quantidade": 0
+        }
+    ],
+    "creditos": [
+        {
+            "credito": "celular",
+            "quantidade": 9057
+        },
+        {
+            "credito": "operadora",
+            "quantidade": 403
+        }
+    ],
+    "avDesempenho": [
+        {
+            "metrica": "produtividadeMedia",
+            "quantidade": 434
+        },
+        {
+            "metrica": "numColaboradoresAvaliados",
+            "quantidade": 4564
+        },
+        {
+            "metrica": "avaliacoesFeitas",
+            "quantidade": 45
+        }
+    ],
+    "candidatosQueEntraram": [
+        {
+            "metrica": "total",
+            "quantidade": 17800
+        },
+        {
+            "metrica": "ultimoTrimestre",
+            "quantidade": 45645
+        }
+    ],
+    "performanceColaboradores": [
+        {
+            "metrica": "topPerformance",
+            "quantidade": 120122
+        },
+        {
+            "metrica": "lowPerformance",
+            "quantidade": 2
+        }
+    ],
+    "treinamento": [
+        {
+            "quantidade": 1679,
+            "custo": 10
+        }
+    ],
+    "vagas": [
+        {
+            "status": "concluido",
+            "tempo_medio": null,
+            "quantidade": 67
+        },
+        {
+            "status": "cancelado",
+            "tempo_medio": null,
+            "quantidade": 11
+        },
+        {
+            "status": "aguardando_aprovacao",
+            "tempo_medio": null,
+            "quantidade": 0
+        }
+    ]
+}
