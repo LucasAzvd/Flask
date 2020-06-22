@@ -7,7 +7,7 @@
     "perfis": [
         {
             "perfil": "A",
-            "quantidade": 1224
+            "quantidade": 122
         },
         {
             "perfil": "P",
@@ -15,11 +15,11 @@
         },
         {
             "perfil": "E",
-            "quantidade": 51318
+            "quantidade": 513
         },
         {
             "perfil": "C",
-            "quantidade": 51133
+            "quantidade": 133
         }
     ],
     "ocorrencias": [
@@ -38,7 +38,7 @@
     ],
     "motivoDemissao": [
         {
-            "Alguma coisa": 0
+            "Alguma coisa": 4
         },
         {
             "Comprar Pão": 2
@@ -59,13 +59,13 @@
         },
         {
             "status": "a",
-            "quantidade": 0
+            "quantidade": 23
         }
     ],
     "creditos": [
         {
             "credito": "celular",
-            "quantidade": 9057
+            "quantidade": 905
         },
         {
             "credito": "operadora",
@@ -75,11 +75,11 @@
     "avDesempenho": [
         {
             "metrica": "produtividadeMedia",
-            "quantidade": 434
+            "quantidade": 4.34
         },
         {
             "metrica": "numColaboradoresAvaliados",
-            "quantidade": 4564
+            "quantidade": 454
         },
         {
             "metrica": "avaliacoesFeitas",
@@ -93,39 +93,39 @@
         },
         {
             "metrica": "ultimoTrimestre",
-            "quantidade": 45645
+            "quantidade": 4564
         }
     ],
     "performanceColaboradores": [
         {
             "metrica": "topPerformance",
-            "quantidade": 120122
+            "quantidade": 120
         },
         {
             "metrica": "lowPerformance",
-            "quantidade": 2
+            "quantidade": 20
         }
     ],
     "treinamento": [
         {
             "quantidade": 1679,
-            "custo": 10
+            "custo": 10000
         }
     ],
     "vagas": [
         {
             "status": "concluido",
-            "tempo_medio": null,
+            "tempo_medio": 5.3,
             "quantidade": 67
         },
         {
             "status": "cancelado",
-            "tempo_medio": null,
+            "tempo_medio": 20,
             "quantidade": 11
         },
         {
             "status": "aguardando_aprovacao",
-            "tempo_medio": null,
+            "tempo_medio": 1,
             "quantidade": 0
         }
     ]
